@@ -1,6 +1,3 @@
-Here's a professional and detailed `README.md` for your **Credit Risk Assessment and Analytics** project on GitHub:
-
----
 
 # 📊 Credit Risk Assessment and Analytics
 
